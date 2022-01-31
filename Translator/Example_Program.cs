@@ -13,4 +13,4 @@ for (int i = 1; i < allTranslations.Length; i++)
     output += ", " + allTranslations[i];
 
 Console.WriteLine(output);
-// Output: "Lindo, Linda"
+// Output: "Linda, Lindo"

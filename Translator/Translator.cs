@@ -2,6 +2,7 @@
 using OpenQA.Selenium.Chrome;
 using System;
 using System.Collections.ObjectModel;
+using System.Diagnostics;
 
 namespace Translations
 {
@@ -72,7 +73,12 @@ namespace Translations
                         + _OUTPUT_LANGUAGE_ARGS + fixedTolanguage
                         + _TEXT_ARGS + toTranslate
                         + _TRANSLATION_MODE_ARGS + E_TranslationMode.translate));
-                Waiter.WaitForNoExceptionAndSleep(() => elements = _driver.FindElements(By.XPath(_PARENT_XPATH_TRANSLATIONS)).ToArray());
+                Waiter.WaitForNoExceptionAndSleep(() =>
+                {
+                    elements = _driver.FindElements(By.XPath(_PARENT_XPATH_TRANSLATIONS)).ToArray();
+                    if (elements.Length <= 0)
+                        throw new Exception("Elements was not found");
+                });
 
                 if (elements.Length == 1)
                     elements[0] = elements[0].FindElement(By.XPath(_SINGLE_XPATH_TRANSLATION));
