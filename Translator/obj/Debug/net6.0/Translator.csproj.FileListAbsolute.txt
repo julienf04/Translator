@@ -1,0 +1,17 @@
+C:\Users\julie\C# Proyetos\Translator\Translator\bin\Debug\net6.0\Translator.exe
+C:\Users\julie\C# Proyetos\Translator\Translator\bin\Debug\net6.0\Translator.deps.json
+C:\Users\julie\C# Proyetos\Translator\Translator\bin\Debug\net6.0\Translator.runtimeconfig.json
+C:\Users\julie\C# Proyetos\Translator\Translator\bin\Debug\net6.0\Translator.dll
+C:\Users\julie\C# Proyetos\Translator\Translator\bin\Debug\net6.0\ref\Translator.dll
+C:\Users\julie\C# Proyetos\Translator\Translator\bin\Debug\net6.0\Translator.pdb
+C:\Users\julie\C# Proyetos\Translator\Translator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\julie\C# Proyetos\Translator\Translator\bin\Debug\net6.0\WebDriver.dll
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.AssemblyInfoInputs.cache
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.AssemblyInfo.cs
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.csproj.CoreCompileInputs.cache
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.csproj.CopyComplete
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.dll
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\ref\Translator.dll
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.pdb
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8UXJg2IcPYQnerZcOoCPWuFstfQJ0lqmNcQ7EGvs/0reGc88p1vjJpYDGYrbGe00TgWN1q/SFzcZ/GkqiIyZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julie\\C# Proyetos\\Translator\\Translator\\Translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\selenium.webdriver.chromedriver\\97.0.4692.7100\\selenium.webdriver.chromedriver.97.0.4692.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
