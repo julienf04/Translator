@@ -15,3 +15,4 @@ C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.dll
 C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\ref\Translator.dll
 C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.pdb
 C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.genruntimeconfig.cache
+C:\Users\julie\C# Proyetos\Translator\Translator\obj\Debug\net6.0\Translator.csproj.AssemblyReference.cache
